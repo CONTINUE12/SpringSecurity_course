@@ -1,23 +1,16 @@
 # SpringSecurity_course
 
 #### 介绍
+
 Java技术栈之SpringSecurity学习
 
-#### 软件架构
-软件架构说明
+#### 概述
 
+是一个功能强大且高度可定制的身份验证和访问控制框架，侧重于为Java应用程序提供身份验证和授权。
 
-#### 安装教程
+#### 思维导图
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![image](https://github.com/CONTINUE12/SpringSecurity_course/blob/master/16.png)
 
 #### 参与贡献
 
@@ -25,7 +18,6 @@ Java技术栈之SpringSecurity学习
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
 
 #### 特技
 
